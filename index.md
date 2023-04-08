@@ -5,7 +5,6 @@
 ![ss1](https://user-images.githubusercontent.com/98358643/230745205-ace2df44-f2d6-4206-bf56-f07294b442b0.jpg)
 
 ***VSCode UI Screenshot***
-This is the second screenshot required for lab 1.
 ![ss2](https://user-images.githubusercontent.com/98358643/230745214-b4e9c3d1-12cf-4203-863c-842f1c8006e6.jpg)
 
 
